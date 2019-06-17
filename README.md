@@ -7,7 +7,10 @@
 
 2.下载FFmpeg，Windows Builds（https://ffmpeg.zeranoe.com/builds/）。
 
-3.将ffmpeg.exe、ffprobe.exe、ffplay.exe文件复制到脚本文件夹。
+3.下载SoX，Windows Builds（https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.zip/download）。
+
+4.将ffmpeg.exe、ffprobe.exe、ffplay.exe等文件复制到脚本文件夹。
+
 ## 视频处理
 1.转换：双击批处理文件，按要求输入源文件夹、目标文件夹。
 

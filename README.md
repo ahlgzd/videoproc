@@ -35,3 +35,12 @@
 2.合并两段视频
 
 3.截取视频中间部分
+
+# 其它选择
+1.Shotcut：Shotcut is a free, open source, cross-platform video editor.
+
+https://www.fosshub.com/Shotcut.html?dwl=shotcut-win64-190615.zip
+
+2.HitFilm  Express：Video editing, VFX, and all the power you need to make something cool. Take your first step towards becoming a pro filmmaker with our free starter software: HitFilm Express. Perfect for beginners, film students, and YouTubers.
+
+https://fxhome.com/hitfilm-express#download
